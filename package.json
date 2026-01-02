@@ -17,7 +17,8 @@
     "ws": ">=8.17.1",
     "braces": ">=3.0.3",
     "webpack-dev-middleware": ">=5.3.4",
-    "nth-check": ">=2.0.1"
+    "nth-check": ">=2.0.1",
+    "qs": ">=6.14.1"
   },
   "scripts": {
     "start": "react-scripts start",
